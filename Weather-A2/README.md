@@ -96,7 +96,7 @@ Make sure to replace the placeholders with actual values.
 
 ### 4. Firebase Setup:
 
-1. Place the Firebase configuration file (`zeotap-dddc1-firebase-adminsdk-hvf95-0a5785de5c.json`) in the `config/` folder.
+1. Place the Firebase configuration file (`zeotap-dddc1-firebase-adminsdk.json`) in the `config/` folder.
 2. Ensure the Firebase account is properly configured to store and retrieve weather data.
 
 ### 5. Running the Application:
