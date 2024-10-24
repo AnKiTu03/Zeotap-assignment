@@ -68,8 +68,8 @@ pip install -r requirements.txt
 ### 1. Clone the Repository:
 
 ```bash
-git clone <your-repo-link>
-cd <your-project-directory>
+git clone https://github.com/AnKiTu03/Zeotap-assignment.git
+cd Zeotap-assignment
 ```
 
 ### 2. Install Dependencies:
