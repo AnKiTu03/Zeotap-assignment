@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/AnKiTu03/Zeotap-assignment.git
-cd Zeotap-assignment
+cd Zeotap-assignment/Weather-A2
 ```
 
 ### 2. Install Dependencies:
@@ -83,16 +83,13 @@ pip install -r requirements.txt
 Create a `.env` file in the `backend` folder with the following content:
 
 ```env
-API_KEY="your_openweathermap_api_key"
-MAILGUN_API_KEY="your_mailgun_api_key"
-MAILGUN_DOMAIN="your_mailgun_domain"
+API_KEY: Your OpenWeatherMap API key.
+api_key: Gemini API key.
+Password_email: To send Emails for weather alerts .
 ```
 
 Make sure to replace the placeholders with actual values. 
 
-- **API_KEY**: Your OpenWeatherMap API key.
-- **api_key**: Gemini API key.
-- **Password_email**: To send Emails for weather alerts .
 
 ### 4. Firebase Setup:
 
