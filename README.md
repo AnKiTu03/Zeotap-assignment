@@ -1,7 +1,6 @@
-# Zeotap Systems
+# Zeotap Assignment
 
-This repository contains two distinct applications developed using Python and Streamlit for real-time data processing and dynamic rule evaluation. Both projects are independent yet highlight unique use cases in weather monitoring and rule-based decision-making.
-
+This repository contains two distinct applications developed using Python and Streamlit for real-time data processing and dynamic rule evaluation.
 ---
 
 ## 1. Rule Engine with AST
