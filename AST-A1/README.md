@@ -48,27 +48,12 @@ The application includes the following functions:
 1. **Create a Project Directory**:
 
     ```bash
-    mkdir rule-engine-ast
-    cd rule-engine-ast
+    git clone https://github.com/AnKiTu03/Zeotap-assignment.git
+    cd Zeotap-assignment/AST-A1
     ```
 
-2. **Create a Virtual Environment** (Optional but recommended):
 
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use: venv\Scripts\activate
-    ```
-
-3. **Install Dependencies**:
-
-    - Create a `requirements.txt` file with the following content:
-
-        ```text
-        streamlit==1.26.0
-        sqlalchemy==1.4.22
-        ```
-
-    - Then run:
+2. **Install Dependencies**:
 
         ```bash
         pip install -r requirements.txt
@@ -89,7 +74,6 @@ The application includes the following functions:
    Open your web browser and navigate to [http://localhost:8501](http://localhost:8501).
 
 ## Usage
-
 
 # Rule Management System
 
