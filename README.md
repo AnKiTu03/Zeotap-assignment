@@ -91,9 +91,9 @@ Current temperature in [City] is 30°C, with clear skies. Humidity levels are mo
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.8 or higher
 - pip (Python package installer)
-- API keys for OpenWeatherMap and Mailgun (for weather alerts)
+- API keys for OpenWeatherMap and Gemini
 
 ### Steps
 
