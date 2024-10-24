@@ -101,13 +101,8 @@ Make sure to replace the placeholders with actual values.
 
 ### 5. Running the Application:
 
-1. Start the backend by running the data collector:
 
-```bash
-python backend/processor.py
-```
-
-2. Start the Streamlit app:
+1. Start the Streamlit app:
 
 ```bash
 streamlit run frontend/app.py
